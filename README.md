@@ -1,1 +1,1 @@
-# Iris-classification
+# Iris-class detection
